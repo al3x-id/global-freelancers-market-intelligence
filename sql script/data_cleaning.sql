@@ -139,4 +139,5 @@ experience_level = CASE
 	ELSE 'Executive level'
 END;
 
-SELECT * FROM global_freelancers;
+SELECT 
+* FROM global_freelancers;
